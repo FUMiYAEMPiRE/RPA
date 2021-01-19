@@ -1,0 +1,17 @@
+chromedriver-binary
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+lxml
+matplotlib
+numpy
+opencv-python
+openpyxl
+pandas
+pandas-profiling
+Pillow
+PyDrive2
+python-dotenv
+selenium
+tweepy
+urllib3
