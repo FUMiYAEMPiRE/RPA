@@ -1,3 +1,4 @@
+beautifulsoup4
 chromedriver-binary
 google-api-python-client
 google-auth-httplib2
@@ -12,6 +13,8 @@ pandas-profiling
 Pillow
 PyDrive2
 python-dotenv
+requests
 selenium
 tweepy
 urllib3
+xlrd
