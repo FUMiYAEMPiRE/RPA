@@ -129,3 +129,4 @@ dmypy.json
 .pyre/
 RPA/.DS_Store
 .DS_Store
+.vscode/settings.json
